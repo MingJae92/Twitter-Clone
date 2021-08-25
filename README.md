@@ -1,3 +1,5 @@
+To run this app, you will need to clone it first. Then install NPM, using the command line by typing NPM install or NPM i. Once NPM has been installed type NPM start into the command line to access the front end. My backend server is using a 3rd party libriary called Firebase, therefore there are no command for that.  
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
